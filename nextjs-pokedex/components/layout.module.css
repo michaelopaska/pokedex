@@ -1,0 +1,21 @@
+.container {
+    max-width: 36rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+  }
+  
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .backToHome {
+    margin: 3rem 0 0;
+  }
+  .headerBar{
+    background: #8DC63F 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 20px;
+    width: 100%;
+  }
